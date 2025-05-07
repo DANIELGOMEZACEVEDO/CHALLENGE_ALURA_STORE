@@ -10,7 +10,7 @@ la estructura del proyecto consta de 5 items en los cuales se genera informació
 ## Instrucciones para ejecutar el notebook.
 
 En este repositorio encontrará los siguientes archivos:
-     - un archivo de codigo en python con el analisis de los diferentes items y sus graficas usando librerias de python 
-     - un archivo README (archivo actual) el cual hace una descripción general de todo el proyecto
-     - una carpeta con la base de datos donde se encuentra toda la información de las 4 sucursales.
+     +  un archivo de codigo en python con el analisis de los diferentes items y sus graficas usando librerias de python 
+     +  un archivo README (archivo actual) el cual hace una descripción general de todo el proyecto
+     +  una carpeta con la base de datos donde se encuentra toda la información de las 4 sucursales.
       
